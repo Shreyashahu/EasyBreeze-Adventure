@@ -1,0 +1,47 @@
+body{
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden; /*Hides the scroll bar */
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+#options{
+    text-align: right;
+    background-image: none;
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    align-items: center;
+    gap: 20px;
+    margin: -30px;
+}
+
+#options span{
+    padding: 42px 20px;
+    
+}
+
+.opt{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 18px;
+    color: #141E46;
+}
+
+.img img{
+    height: 100px;
+    width: 148px;
+    margin: 0px;
+    padding-right: 7.2in;
+}
+
+.heading{
+    padding: 130px 0px;
+    text-align: center;
+    font-size: 50px;
+    /* color: #8DECB4; */
+}

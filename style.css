@@ -2,7 +2,7 @@ body{
     background-image: url(background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    overflow: hidden; /*Hides the scroll bar */
+    overflow: hidden;
     margin: 0px;
     padding: 0px;
 }
